@@ -5,7 +5,7 @@ in this their is the section of skills
                                 about me
                                 my introduction..etc
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
